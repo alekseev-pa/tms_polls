@@ -1,0 +1,4 @@
+.idea
+db.sqlite3
+
+#git rm db.sqlite3 -- cached  - удаляет файл из git репозитория
